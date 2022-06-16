@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: rgb(5, 119, 172);
+    height: 6vh;
+}
+
+.header span {
+
+    color: rgb(245, 245, 245);
+    font-size: 20px;
+    font-weight: bold;
+    max-width: 1400;
+    margin-left: 40px;
+}
+
+.aside {
+    background-color: blue;
+    width: 200px;
+    height: 895px;
+    color: white;
+}
+
+.main {
+    display: flex;
+}
+.table {
+    max-width: 720px;
+    margin-left: 200px;
+}
