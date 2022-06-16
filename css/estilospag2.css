@@ -67,12 +67,15 @@ body {
 
 table, tr {
     background-color: antiquewhite;
-    border-bottom: solid salmon;
     width: 500px;
+    border-bottom: solid 2px;
     
 }
+
 th {
     background-color: darkslategrey;
+    border-bottom: solid salmon;
     color: white;
     padding: 12px 0;
+   
 }
