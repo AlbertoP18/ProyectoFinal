@@ -3,29 +3,25 @@
         height: 128px;
     }
     
-body {
-    font-family: Arial;
-    animation-name: color-change;
-    animation-duration: 5s;
-    animation-iteration-count: infinite;
-
-
-}
-
-@keyframes color-change {
-
+    body {
+        font-family: Arial;
+        animation-name: color-change;
+        animation-duration: 5s;
+        animation-iteration-count: infinite;
+    }
+    
+    @keyframes color-change {
         0% {
             background-color: aliceblue;
         }
         50% {
-            background-color: brown;
+            background-color: blue;
         }
         100% {
             background-color: yellow;
         }
-
+    }
     
-}
     .h_contenedor {
         display: flex;
         background-color: rgb(176, 223, 204);
@@ -38,8 +34,7 @@ body {
         color: black;
         margin-left: 30px;
     }
-
+    
     a:hover {
         background-color: purple;
     }
-
