@@ -1,0 +1,17 @@
+    img {
+        width: 128px;
+        height: 128px;
+    }
+    
+    .h_contenedor {
+        display: flex;
+        background-color: rgb(176, 223, 204);
+    }
+    
+    header a {
+        padding: 5px 10px;
+        text-decoration: none;
+        font-weight: bold;
+        color: black;
+        margin-left: 30px;
+    }
