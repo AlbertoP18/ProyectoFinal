@@ -54,3 +54,8 @@ a:hover {
     margin-left: 67%;
     display: flex;
 }
+
+.imagen {
+    height: 1400px;
+    width: 600px;
+}
