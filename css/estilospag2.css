@@ -6,6 +6,13 @@ body {
 
 }
 
+.nav-profile {
+   
+    display: flex;
+    
+}
+
+
 #exampleModal {
     top: 40%;
 }
