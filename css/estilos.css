@@ -43,7 +43,7 @@ a:hover {
 }
 
 .contenedornav {
-    background-color: blueviolet;
+    background-color: rgb(62, 0, 121);
 }
 
 .nav-link {
@@ -51,11 +51,15 @@ a:hover {
 }
 
 .mover {
-    margin-left: 67%;
+    margin-left: 66%;
     display: flex;
 }
 
-.imagen {
-    height: 1400px;
-    width: 600px;
+.dv2 {
+    padding: 130px;
+    background-image: url(/img/fondodiv1.png);
+    color: rgba(255, 255, 255, 0.736);
+    font-size: 2.1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
 }
