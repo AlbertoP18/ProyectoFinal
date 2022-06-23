@@ -41,3 +41,16 @@ header a {
 a:hover {
     background-color: purple;
 }
+
+.contenedornav {
+    background-color: blueviolet;
+}
+
+.nav-link {
+    color: aliceblue;
+}
+
+.mover {
+    margin-left: 67%;
+    display: flex;
+}
